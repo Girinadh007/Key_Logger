@@ -20,6 +20,9 @@ This is a lightweight, educational keylogger written in Python. It captures keys
 - Python 3.6+
 - [`pynput`](https://pypi.org/project/pynput/)
 
+🙏 Disclaimer
+
+This software is provided for educational use only. The author is not responsible for any misuse or damage caused by running this software.
 Install dependencies:
 
 ```bash
